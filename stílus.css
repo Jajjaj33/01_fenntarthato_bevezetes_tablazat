@@ -19,3 +19,14 @@ table,th,td{
     border-collapse: collapse ;
     border-bottom: 1px solid grey;
 }
+
+table{
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 12px;
+}
+
+tfoot{
+    font-size: 12px;
+    text-align: left;
+}
